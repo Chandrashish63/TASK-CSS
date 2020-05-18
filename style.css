@@ -1,0 +1,54 @@
+h1{
+	color: black;
+	text-align: center;
+	background-color: black;
+    color: white;
+    padding: 10px;
+
+
+}
+hr{
+	border: 1px solid black;
+	
+
+}
+
+p{
+	margin-left: 100px;
+	margin-right:100px;
+	margin-top: 40px;
+
+}
+img{
+	border-radius:25%;
+	width:59%;
+	}
+header{
+	background-color: black;
+	 padding: 05px;
+}
+
+ul{
+	list-style: none;
+	
+}
+
+li{
+	display: inline;
+	margin: 100px;
+
+
+}
+li a{
+	color: white;
+	text-decoration: none;
+}
+li a:hover{
+	color: red;
+}
+footer{
+	background-color: black;
+color: white;
+padding:8px;
+text-align: center;
+}
